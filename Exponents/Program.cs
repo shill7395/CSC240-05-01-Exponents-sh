@@ -3,6 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Windows.Forms;
 
+/* Name: Shamika Hill
+ * Date: 11/4/2021
+ */
+
 namespace Exponents
 {
     static class Program

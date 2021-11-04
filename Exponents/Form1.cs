@@ -8,8 +8,8 @@ using System.Text;
 using System.Windows.Forms;
 
 /**************************************
- * Name:
- * Date:
+ * Name: Shamika Hill
+ * Date: 11/4/2021
  * Description: A program using user-created method
  *              for the math function Square and Cube
  * Assistance:
@@ -30,7 +30,7 @@ namespace Exponents
             int num; // square, cube;
 
             // INPUT
-            num = Convert.ToInt32(xInputTextBox.Text);
+            num = Convert.ToInt32(UxInputTextBox.Text);
 
             // PROCESS
             /* calculate the square of the number and add it to the output - 
